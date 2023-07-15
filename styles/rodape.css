@@ -1,0 +1,9 @@
+hr{
+  margin: 0;
+}
+
+.rodape{
+  color: var(--cor-terciaria);
+  font-size: 14px;
+  margin: 1em;
+}
