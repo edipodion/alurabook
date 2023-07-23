@@ -1,5 +1,5 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@400;600&family=Poppins:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,700;1,400&display=swap');
 
 @import url('./header.css');
 @import url('./banner.css');
@@ -15,10 +15,11 @@
   --cor-terciaria: #F8F1F1;
   --azul-degrade: linear-gradient(97.54deg,#002f52 35.49%, #326589 165.37%);
   --ciano-escuro: #008b8b;
+  --preto: #000000; 
   
   --font-primaria: 'Popppins', sans-serif;
   --font-secundaria: 'Montserrat' sans-serif;
-
+  --font-terciaria: 'Josefin Sans', sans-serif;
 
 }
 
